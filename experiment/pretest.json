@@ -2,37 +2,56 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.The binding of Antibodies to protein A occurs better at which condition:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Low PH",
+        "b": "High pH",
+        "c": "Neutral condition",
+        "d": "All of them"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.The protein A and Protein B have a high affinity to the -----------------region of the Ig G type antibodies.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Fab Region",
+        "b": "Fc Region",
+        "c": "Both of them",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.Chaotropes are used to denature the eluted proteins:",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Which of the following is used as a powerful tool for isolate and purify classes ,subclasses and fragments of immunoglobulins from biological fluids.",
+      "answers": {
+        "a": "Protein H Sepharose CL-4B",
+        "b": "Protein L Sepharose CL-4B",
+        "c": "Protein A Sepharose CL-4B",
+        "d": "Protein G Sepharose CL-4B"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5.The ligands are coupled to the solid support material by which type of interaction :",
+      "answers": {
+        "a": "Ionic bond",
+        "b": "Covalent Bond",
+        "c": "Hydrogen bond",
+        "d": "Disulfide bond"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

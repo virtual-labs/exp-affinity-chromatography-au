@@ -2,37 +2,56 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.In affinity chromatography the proteins are separated solely on basis of their :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Size",
+        "b": "Molecular weight",
+        "c": "Specificity",
+        "d": "Ionic strength"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Spacer arm is used",
+      "answers": {
+        "a": "To improve binding between ligand and target molecule",
+        "b": "To overcome any effects of steric hindrance",
+        "c": "when active site is located deep within a sample molecule",
+        "d": "All the above"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.Protein A binds to the Fc region of immunoglobulins through interactions with the heavy chain.",
+      "answers": {
+        "a": "True",
+        "b": "False"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "4.--------------- can be employed as a ligand in the purification of glycoproteins.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Protein A",
+        "b": "Protein G",
+        "c": "Glutathione",
+        "d": "Lectins"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5.Protein A,protein G,protein L are derived from ------------- respectively.",
+      "answers": {
+        "a": "Staphylococcus ,Streptococcus, Peptostreptoccus magnus",
+        "b": "Peptostreptoccus magnus, Staphylococcus ,Streptococcus",
+        "c": "Streptococcus, Staphylococcus , Peptostreptoccus magnus",
+        "d": "Staphylococcus , Peptostreptoccus magnus, Streptococcus"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
