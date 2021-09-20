@@ -42,8 +42,6 @@
 
 ### PROCEDURE:
 
-&nbsp;
-
  
 
 1. Centrifuge monoclonal antibody supernatant at 20,000 × g (13,000 rpm in SS-34 rotor)  at 4°C.
