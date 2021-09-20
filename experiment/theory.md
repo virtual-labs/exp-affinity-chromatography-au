@@ -1,17 +1,14 @@
-## Principle
+### Principle
 
-&nbsp;
- 
+
 
 Affinity chromatography is unique in purification technology since it is the only technique that enables the purification of a biomolecules on the basis of its biological function or individual chemical structure. The method was developed  by Cuatrecasas P, Wilchek M,and Meir Wilchek for which the Wolf Prize in Medicine was awarded in 1987.
 
 
-&nbsp;
+
  
 
 Affinity chromatography separates proteins on the basis of a reversible interaction between a protein (and group of proteins) and a specific ligand coupled to a chromatographic matrix. Purification that would otherwise be time-consuming, difficult or even impossible using other techniques can often be easily achieved with affinity chromatography. The technique can be used to separate active biomolecules from denatured or functionally different forms, to isolate pure substances present at low concentration in large volumes of crude sample and also to remove specific contaminants. The technique offers high selectivity, hence high resolution, and usually high capacity for the protein of interest. Purification can be in the order of several thousand-fold and recoveries of active material are generally very high.
-
-&nbsp;
 
 Biological interactions between ligand and target molecule can be a result of electrostatic or hydrophobic interactions, van der Waals' forces and/or hydrogen bonding. To elute the target molecule from the affinity medium the interaction can be reversed, either specifically using a competitive ligand, or non-specifically, by changing the pH, ionic strength or polarity. The coupled ligand must retain its specific binding affinity for the target molecules and, after washing away unbound material, the binding between the ligand and target molecule must be reversible to allow the target molecules to be removed in an active form. Any component can be used as a ligand to purify its respective binding partner. A single pass of a serum or cell-lysate sample through an affinity column can achieve greater than 1000-fold purification of a specific protein so that only a single band is detected after gel electrophoresis (e.g., SDS-PAGE) analysis.
 
@@ -34,10 +31,8 @@ Some typical biological interactions, frequently used in affinity chromatography
 
  
 
-### Common terms in Affinity Chromatography
+#### Common terms in Affinity Chromatography
  
-
-&nbsp;
 
  
 **Matrix**
@@ -175,7 +170,7 @@ Pre-activated matrices: matrices which have been chemically modified to facilita
 
  
 
-### Affinity Chromatography Using Protein A Sepharose and Protein G Sepharose
+#### Affinity Chromatography Using Protein A Sepharose and Protein G Sepharose
  
 
 The basis for purification of IgG, IgG fragments and subclasses is the high affinity of protein A (cell wall protein derived from Staphylococcus aureus ) and protein G( derived from groups C and G Streptococci )for the Fc region of polyclonal and monoclonal IgG-type antibodies. Protein A can be used to isolate monoclonal and polyclonal IgG from ascites, serum, and tissue culture and bioreactor supernatants. Protein A purification is recommended for human (except IgG3; mouse IgG1 may bind only weakly), rabbit, guinea pig, and pig antibodies. Addition  of the antibody to a protein A– Sepharose column at pH 8.0, followed by elution at a lower pH.
