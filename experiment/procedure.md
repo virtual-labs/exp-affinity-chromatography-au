@@ -1,6 +1,4 @@
-## MATERIALS REQUIRED:
-
-&nbsp;
+#### MATERIALS REQUIRED:
 
 
 1. Ascites fluid or MAb supernatant
@@ -26,11 +24,9 @@
 &nbsp;
 
 
-### REAGENT PREPARATION:
+#### REAGENT PREPARATION:
 
-&nbsp;
 
- 
 
 **PBS (phosphate-buffered saline):** Weigh  0.23 g NaH2PO4 (anhydrous; 1.9 mM),1.15 g NaH2PO4 (anhydrous; 8.1 mM), 9.00 g NaCl (154 mM).Add water to a volume  of  900 ml. Adjust to desired pH  using 1 M NaOH or 1 M HCl. Add water to get a final volume of 1 liter.
  
@@ -44,9 +40,7 @@
 &nbsp;
 
 
-## PROCEDURE:
-
-&nbsp;
+### PROCEDURE:
 
  
 

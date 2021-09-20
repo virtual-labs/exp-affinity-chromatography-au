@@ -1,6 +1,6 @@
-##  Objectives
+###  Objectives
 
-&nbsp;
+
 
 
 1. To learn the principles and procedure for the purification of immunoglobulins by affinity chromatography.
